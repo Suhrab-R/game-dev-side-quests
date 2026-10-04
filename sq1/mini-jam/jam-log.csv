@@ -1,0 +1,3 @@
+session,date,minutes,tool,model,tokens_in,tokens_out,tokens_source,prompts,features,llm_helpfulness,notes
+1,2026-09-26,16,claude-code,claude-opus-5-5,2434850,57970,ccusage incl. cache,1,split-into-files;rooms-and-doors;shrinking-arena;expander-enemy;darkness;charger;shooter;splitter;health-pickups;room-hud,5,llm was very helpful basically generated whole thing in 1 prompt
+2,2026-10-02,29,claude-code,claude-opus-5-5,7669596,41369,ccusage incl. cache,12,background-color;crush-lose;spawn-ramp;room1-speed-ramp;room2-balance;room5-balance;dark-light-radius;debug-room-keys,5,llm was very good once again... during playtests it quickly and easily adjusted what i requested
