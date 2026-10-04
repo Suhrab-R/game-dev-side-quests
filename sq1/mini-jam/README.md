@@ -1,3 +1,5 @@
+**Demo video link:** https://youtu.be/drz0JDxpAU0
+
 ## How to build and play
 
 Requires [Odin](https://odin-lang.org) (Raylib ships with it as `vendor:raylib`).
